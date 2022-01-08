@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.becc2007.css",
+    "main.js": "/static/js/main.a76143a3.js",
+    "static/media/cards.png": "/static/media/cards.31cd2dd63f532291648e.png",
+    "static/media/discussion.png": "/static/media/discussion.9411f2cfa6d532fcceee.png",
+    "static/media/nightsky.png": "/static/media/nightsky.af5e67ab844e4084a6f2.png",
+    "static/media/paw-icon.png": "/static/media/paw-icon.ea8d37887b9fb00a31f7.png",
+    "static/media/sunrise.png": "/static/media/sunrise.e2879c8a0196abc5ac76.png",
+    "static/media/logo3.svg": "/static/media/logo3.cddfb3fa1711ccb5b9143a54c00e0495.svg",
+    "static/media/logo2.svg": "/static/media/logo2.e6d8ac71dd031cf8fb0b7f0ed07bf13d.svg",
+    "static/media/logo7.svg": "/static/media/logo7.28bf914fea29d7a82bd55fcb6807ced9.svg",
+    "static/media/logo4.svg": "/static/media/logo4.f9110902d1fd2fbdbc3feeeb693b2b0f.svg",
+    "static/media/logo6.svg": "/static/media/logo6.feb26c0465e2818dd3e64e1c6ea2f615.svg",
+    "static/media/brushtool-icon.svg": "/static/media/brushtool-icon.d1ab7e3de62fe607e99cad4f8d7aa00a.svg",
+    "static/media/logo9.svg": "/static/media/logo9.3cc558b45059c097a431a04f5c2180b2.svg",
+    "static/media/logo1.svg": "/static/media/logo1.92a64747a3ced748adf666640ff524a1.svg",
+    "static/media/logo.svg": "/static/media/logo.f471fa6298631e311ab8d1c34759fe87.svg",
+    "static/media/person-icon.svg": "/static/media/person-icon.9ae7618f19d323967d469693cda3c9e2.svg",
+    "static/media/watch-icon.svg": "/static/media/watch-icon.1aca394dd2ca929a91d7fca62a3877bd.svg",
+    "static/media/logo5.svg": "/static/media/logo5.e28baa5104655c12bd7384e76493226f.svg",
+    "index.html": "/index.html",
+    "static/media/wallpaper-icon.svg": "/static/media/wallpaper-icon.ab2677072b2749c0be57b1a677dffff1.svg",
+    "static/media/logo8.svg": "/static/media/logo8.5c942157d3e8fa7acc77c32cc2d0cd7c.svg",
+    "static/media/logo10.svg": "/static/media/logo10.c52cf20540bf23318ce33bebf5743495.svg",
+    "static/media/logo-icon.svg": "/static/media/logo-icon.2cd718f70e6b1dfcbe56ff61891883dc.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.a8a129a4f73492b39053716559c91955.svg",
+    "static/media/art-icon.svg": "/static/media/art-icon.5432cd9c7ebb83c220aec19630a895bc.svg",
+    "main.becc2007.css.map": "/static/css/main.becc2007.css.map",
+    "main.a76143a3.js.map": "/static/js/main.a76143a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becc2007.css",
+    "static/js/main.a76143a3.js"
+  ]
+}
